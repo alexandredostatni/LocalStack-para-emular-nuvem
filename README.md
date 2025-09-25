@@ -37,3 +37,6 @@ Requisitos:
 • Git: Para versionamento do código.
 
 • Editor de Código: VSCode.
+
+![image](https://github.com/user-attachments/assets/0d67c488-c1bc-4ea2-bac6-336a6f745ac7)
+
